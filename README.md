@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jfink09
 - 👀 I’m interested in technology in medicine, aerospace engineering, financial modeling, and website and mobile application development.
-- 🌱 I’m currently learning Javascript, Keras, and PyTorch.
+- 🌱 I’m currently learning PyTorch and working on a web app to diagnose optical funduscopic diseases.
 - 💞️ I’m looking to collaborate on projects related to advancing medicine.
 - 📫 How to reach me jasonfink09@gmail.com
 
